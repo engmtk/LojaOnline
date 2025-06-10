@@ -97,8 +97,9 @@ Criei um mecanismo que evita duplicidade do cadastro tambem:
 ![{22772F8A-A832-4F99-B3B8-F47F949C26D4}](https://github.com/user-attachments/assets/99ffc687-3215-480b-8f03-3c7705022361)
 
 Inclui um novo usuario: LUIZ RIBEIRO SILVA
+![{9DC13FF8-186B-4A92-A41E-57B0EB3EE446}](https://github.com/user-attachments/assets/202a8f9b-cb8b-4510-b4d4-f8ae86b081da)
 
-![{22772F8A-A832-4F99-B3B8-F47F949C26D4}](https://github.com/user-attachments/assets/99ffc687-3215-480b-8f03-3c7705022361)
+
 
 
 
