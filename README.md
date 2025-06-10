@@ -81,3 +81,24 @@ Consulta: Busca de registros com base em CPF/CNPJ, Nome ou Código do Produto.
 Logging: Registro de todas as interações do usuário no sistema, incluindo operações CRUD e consultas, em um arquivo de log diário.
 
 Layout Responsivo: Interface organizada e centralizada, com uso do Bootstrap para um design responsivo e amigável ao usuário.
+
+Prints do funcionamento:
+
+![{1C648A62-746E-4FDB-BA48-B6C8A320FDDC}](https://github.com/user-attachments/assets/6fa49086-ab3d-4ab4-bf03-c498ac750cdf)
+
+![{6BCC345C-910E-4B11-A3F6-AA61B1E8C913}](https://github.com/user-attachments/assets/0c327ca3-eb50-400b-a2fd-d5a46b32f8ef)
+
+![{9EB99385-9218-40BE-8F76-16D2E4EFFF73}](https://github.com/user-attachments/assets/dd352604-c645-40bf-b9bc-ee045cd91c53)
+
+![{C62BCDFE-3894-4C64-B043-4FC507805435}](https://github.com/user-attachments/assets/be34c9fa-e640-4c72-953c-3339619d0451)
+
+Criei um mecanismo que evita duplicidade do cadastro tambem:
+
+![{22772F8A-A832-4F99-B3B8-F47F949C26D4}](https://github.com/user-attachments/assets/99ffc687-3215-480b-8f03-3c7705022361)
+
+Inclui um novo usuario: LUIZ RIBEIRO SILVA
+
+![{22772F8A-A832-4F99-B3B8-F47F949C26D4}](https://github.com/user-attachments/assets/99ffc687-3215-480b-8f03-3c7705022361)
+
+
+
